@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
 
-int a ;
+int a ; 
 cout << "Please enter a number - ";
 cin >> a;
 
