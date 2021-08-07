@@ -10,7 +10,8 @@ cout <<"Please enter the second number -";
 cin >> b;
 
 cout <<"Please enter the third number - ";
-cin >> c;
+cin >> c; 
+
 
 if(a>b){
     if (a>c)
